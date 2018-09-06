@@ -15,3 +15,7 @@ h2 {
   color: #e0b0ff;
   font-size:12px;
 }
+p {
+  font-family: "Lucida Console", Courier, sans-serif;
+  text-align: justify;
+}
