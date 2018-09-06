@@ -2,5 +2,16 @@ title {
   font-family: impact, charcoal, sans-serif;
   font-weight: bold;
   color: #e0b0ff;
+  font-size:36px;
+}
+h1 {
+  font-family: impact, charcoal, sans-serif;
+  font-weight: bold;
+  color: #e0b0ff;
   font-size:20px;
+}
+h2 {
+  font-family: impact, charcoal, sans-serif;
+  color: #e0b0ff;
+  font-size:12px;
 }
