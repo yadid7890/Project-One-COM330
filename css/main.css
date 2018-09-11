@@ -13,14 +13,16 @@ p {
   font-family: 1.2em "Fira Sans", sans-serif;
   text-align: justify;
   font-size: 20px;
-  word-wrap: break-word;
   text-align: justify;
   text-justify: inter-word;
 }
 html {
   background-color: #d4ff14;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
+  position: absolute;
+  margin-top: 5%;
+  margin-bottom: auto;
+  margin-right: 5%;
+  margin-left: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
 }
