@@ -2,7 +2,7 @@
   font-family: papyrus;
   font-weight: extrabold;
   color: #4a03ff;
-  font-size:2em;
+  font-size:153%;
   margin-left: 3%;
   margin-right: 3%;
   outline: thick dotted  #aefff3;
@@ -54,6 +54,5 @@ footer{
   font-weight: extrabold;
   color: #4a03ff;
   font-size:2em;
-  margin-left: 3%;
-  margin-right: 3%;
+  margin-left: 10%;
 }
