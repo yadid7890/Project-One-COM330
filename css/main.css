@@ -1,11 +1,11 @@
-html {
-  position: absolute;
-  left: 0px;
-  top: 0px;
+.img1 {
+  position: sticky;
+  top: -70px;
   z-index: -1;
-  margin-left: -20%;
-  margin-right: 50%;
-  margin-top: -30%;
+  margin-top: -40%;
+  margin-bottom: -10%;
+  height: 30%;
+  width: 100%;
 }
 #header {
   font-family: papyrus;
